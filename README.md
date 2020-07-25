@@ -1,3 +1,12 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/schirrel/schirrel/blame/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
+
 ### Ahoy!
 
 I'm a UI developer, but you can call me a front-ender.
