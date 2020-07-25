@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/schirrel/schirrel/blame/master/header.svg">
-		<img src="https://github.com/schirrel/schirrel/blame/master/header.svg" width="800" height="400">
+		<img src="https://raw.githubusercontent.com/schirrel/schirrel/master/header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
