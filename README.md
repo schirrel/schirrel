@@ -10,7 +10,7 @@
 ### Ahoy!
 
 I'm a UI developer, but you can call me a front-ender.
-I am a Jack of all Trades, but i'm kinda martered CSS, Vanilla JS and HTML.
+I am a Jack of all Trades, but i kinda mastered CSS, Vanilla JS and HTML.
 
 I'm focused on bring ux to your ui and make it both pretty and useful.
 
