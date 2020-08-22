@@ -14,7 +14,7 @@ I am a Jack of all Trades, but i kinda mastered CSS, Vanilla JS and HTML.
 
 I'm focused on bring ux to your ui and make it both pretty and useful.
 
-Current i'm of the business as i am taking a time to know myself, heal my mind, as well as help out my family in a local small business.
+Current i'm out of the business as i am taking a time to know myself, heal my mind, as well as help out my family in a local small business.
 
 ### CSS
 My biggest goal and passion is CSS, i have a challenge's repo with things that you may learn about CSS, and some of then are thing that i bet you thought u couldn't make without JS.
