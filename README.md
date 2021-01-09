@@ -25,3 +25,6 @@ I can program anything, because i love to code and learn. But i'm already know a
 ### Check out
 [My Page](schirrel.dev/)   |  [Code Pen](https://codepen.io/schirrel)   |   [LinkedIn](https://www.linkedin.com/in/alanschio/)
 
+
+[![schirrel github stats](https://github-readme-stats.vercel.app/api?username=schirrel)](https://github.com/anuraghazra/github-readme-stats)
+
