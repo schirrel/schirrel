@@ -20,10 +20,8 @@ I did some things i'm proud of:
 - [CSS Fully Funcional(ish) Dashboard](https://github.com/schirrel/css-admin-template)
 
 ### Stack
-I can program anything, because i love to code and learn. But i'm already know and enjoy: AngularJS, VueJS, VanillaJS, Java, CSS+HTML, NodeJS
+I can program anything, because i love to code and learn. But i'm already know and enjoy: **AngularJS, VueJS, VanillaJS, Java, CSS+HTML, NodeJS**
 
 ### Check out
-[My Page](schirrel.dev/)
-[Code Pen](https://codepen.io/schirrel)
-[LinkedIn](https://www.linkedin.com/in/alanschio/)
+[My Page](schirrel.dev/)   |  [Code Pen](https://codepen.io/schirrel)   |   [LinkedIn](https://www.linkedin.com/in/alanschio/)
 
