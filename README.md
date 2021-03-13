@@ -6,7 +6,7 @@
 </div>
 
 ### Ahoy!
-I'm a UI developer, but you can call me a front-ender. I am a Jack of all Trades, but i kinda mastered CSS, Vanilla JS and HTML. I'm focused on bring ux to your ui and make it both pretty and useful. Current i'm a Front End Software Engineer at @juntossomosmais.
+I'm a UI developer, but you can call me a front-ender. I am a Jack of all Trades, but i kinda mastered CSS, Vanilla JS and HTML. I'm focused on bring ux to your ui and make it both pretty and useful. Current i'm a Front End Software Engineer at [Juntos Somos Mais](https://github.com/juntossomosmais).
 
 #### CSS
 My biggest goal and passion is CSS, i have a challenge's repo with things that you may learn about CSS, and some of then are thing that i bet you thought u couldn't make without JS.
