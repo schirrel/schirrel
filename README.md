@@ -5,8 +5,7 @@
 	<br>
 </div>
 
-### Ahoy!
-I''m a Front End Software Engineer using Vue.js at [Juntos Somos Mais](https://github.com/juntossomosmais).
+I'm a Front End Software Engineer using Vue.js at [Juntos Somos Mais](https://github.com/juntossomosmais).
 
 If you need to know something about me is that i love pure web, css is everything to me.
 
