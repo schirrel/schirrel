@@ -10,6 +10,7 @@
 I'm a Front End Software Engineer using Vue.js @ <a href="https://github.com/juntossomosmais">Juntos Somos Mais</a> and 
 Master's Degree student in Applied Computing @ UFMS
 
+Current focused at Microfrontends and Microinteractions.
 
 
 #### Nice things i've done
