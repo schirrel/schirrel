@@ -1,5 +1,5 @@
 # Ahoy 🏴‍☠️
-Hi i am Alan, but you can call me Alanzin 😝
+Hi i am Alan, but you can call me Alanzin 😝 (ele/he)
 
 
 ### Knowledges 
