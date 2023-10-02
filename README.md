@@ -1,10 +1,10 @@
 Hey 🐿 
 Hi i am Alan, but you can call me Alanzin 😝 (he/him)
 
-💻 I'm a Mid Front End Software Engineer at <a href="https://github.com/juntossomosmais">Juntos Somos Mais</a>.   
+💻 I'm a Software Engineer @ Lulus  
 📚 BSc Information System @ CPCX-UFMS  
 📚 MSc Applied Computing with Microfrontend @ FACOM-UFMS  
-💚 CSS | HTML | Vanilla JS | Vue.js | SVG Animations | Module Federation | Learning NuxtJS
+💚 CSS | HTML | Vanilla JS | Vue.js | SVG Animations | Module Federation | NuxtJS
 _____
 
 
