@@ -7,7 +7,7 @@ Hi i am Alan, but you can call me Alanzin 😝 (he/him)
 💚 Lover of CSS, HTML, Vanilla JavaScript, Web Components, Vue, SVG Animations, Nuxt and AngularJS.  
 🕐 Current learning and improving NestJS and Cypress' skills\.  
 🔧 Working stack: Nuxt, NestJS, TypeScript, Jest, Cypress and PHP.  
-🪄 Played around with Webpack, Module Federation, PWA, Service Workers, Monorepo, NX, Vitest, Vite, WEB Apis, Observables, Wrapper and Factory, code architecture.
+🪄 Played around with Webpack, Module Federation, PWA, Service Workers, Monorepo, NX, Vitest, Vite, WEB Apis, Observables, Wrapper and Factory, code architecture.  
 😂 Fun fact: I love dad jokes.
 _____
 
