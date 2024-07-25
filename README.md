@@ -6,7 +6,7 @@ Hi i am Alan, but you can call me Alanzin 😝 (he/him)
 📚 BSc Information System @ CPCX-UFMS  
 📚 MSc Applied Computing with Microfrontend usign Vue and Module Federation @ FACOM-UFMS  
 ❤️ Lover of CSS, HTML, Vanilla JavaScript, Web Components, Vue, SVG Animations, Nuxt, Cypress and AngularJS.  
-🕐 Current learning React Native.  
+🕐 Current: improving Nuxt and NestJS.
 🔧 Working stack: Nuxt, NestJS, TypeScript, Jest, Cypress and PHP.  
 🪄 Played around with Webpack, Module Federation, PWA, Service Workers, Monorepo, NX, Vitest, Vite, WEB Apis, Cypress, Observables, Wrapper and Factory, DevEx and code architecture.  
 😂 Fun fact: I love dad jokes.
