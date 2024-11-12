@@ -1,5 +1,9 @@
-Hey 🐿 
-Hi i am Alan, but you can call me Alanzin 😝 (he/him)
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/bd2cf518-f52a-4c53-9218-0cf495908721"/>
+</p>
+<p align="center">
+Hi, i am Alan <small><i>(he/him)</i></small>
+</p>
 
 💚 [Certified Vue.js Developer](https://api.certificates.dev/certificates/9b3d3b3e-040e-4d2f-9c56-a48c8e62bc35/download?signature=6032493fc80df555ad2cbfc43290a19e79bf850770ca6abf7a5b5fbc97aef965)  
 💻 I'm a Software Engineer @ BairesDev working at Lulus.com  (Working profile [@alanschiobairesdev](https://github.com/alanschiobairesdev))
