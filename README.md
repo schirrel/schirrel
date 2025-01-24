@@ -13,7 +13,8 @@ Hi, i am Alan <small><i>(he/him)</i></small>
 🕐 Current: improving Nuxt and NestJS.
 🔧 Working stack: Nuxt, NestJS, TypeScript, Jest, Cypress and PHP.  
 🪄 Played around with Webpack, Module Federation, PWA, Service Workers, Monorepo, NX, Vitest, Vite, WEB Apis, Cypress, Observables, Wrapper and Factory, DevEx and code architecture.  
-😂 Fun fact: I love dad jokes.
+😂 Fun fact: I love dad jokes.   
+⌨️ Open Sourcer: contributed to @nuxt, @superfly, @mdn, @marmelab's react-admin, MarlinFirmware, @module-federation and others.
 _____
 
 
